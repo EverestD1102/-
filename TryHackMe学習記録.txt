@@ -1,0 +1,6 @@
+★2026/10/07
+【オペレーティングシステムの基本】
+オペレーティングシステム:はじめに
+完了
+https://tryhackme.com/room/insideacomputer
+
